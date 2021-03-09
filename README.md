@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center" width="50">
     <img src="/images/logo.svg" />
 </h1>
 
@@ -32,7 +32,7 @@ $ git clone https://github.com/cristianojr9/cristianojr9.github.io
 $ abra o index.html no seu navegador de preferência 
 
 # ou instale o Live Server
-$ instale a extensão no seu VsCode [**Link**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+$ instale a extensão no seu VsCode Live Server
 ```
 
 :speech_balloon: Conecte-se com a gente!
