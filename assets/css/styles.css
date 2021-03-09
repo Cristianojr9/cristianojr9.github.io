@@ -13,3 +13,14 @@
     width: 85px;
     height: 85px;
 }
+form {
+    place-content: center;
+    display:grid;
+}
+form input{
+    width: 400px;
+    margin: 3% 0;
+}
+form input[name=descricao]{
+    width: 300px;
+}
