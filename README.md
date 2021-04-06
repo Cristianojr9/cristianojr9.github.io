@@ -38,9 +38,9 @@ $ instale a extensão no seu VsCode Live Server
 :speech_balloon: Conecte-se com a gente!
 ----------
 
-[*Linkedin Cristiano/*](https://www.linkedin.com/in/cristianojr9/)
-[*Linkedin Lucas/*](https://www.linkedin.com/in/lucas-do-nascimento-diniz-137aa21a7/)
-[*Linkedin João Teixeira/*](https://www.linkedin.com/in/jo%C3%A3o-teixeira-614760156/)
+[*Linkedin Cristiano - *](https://www.linkedin.com/in/cristianojr9/)
+[*Linkedin Lucas - *](https://www.linkedin.com/in/lucas-do-nascimento-diniz-137aa21a7/)
+[*Linkedin João Teixeira - *](https://www.linkedin.com/in/jo%C3%A3o-teixeira-614760156/)
 [*Linkedin Guilherme*](https://www.linkedin.com/in/guilhermerodriguess/)
 
 Obrigado por dar uma olhada no nosso projeto! Feito com ♥
